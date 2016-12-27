@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ParallelSuite" parallel="tests" thread-count="2">
+	<test name="Test-class test 1">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests.ParallelSuiteTest" />
+        </classes>
+    </test>
+    <test name="Test-class test 2">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests.ParallelSuiteTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanitySuite" parallel="true">
+	<test name="sanitytest_">
+	<classes>
+			<class name="tests.Test_1" />
+	</classes>
+	</test>
+</suite>
