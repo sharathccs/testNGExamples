@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PreserveOrder">
+	<test name="PreserveOrder" preserve-order="true">
+	<classes>
+			<class name="preserve.ClassOne" />
+			<class name="preserve.ClassTwo" />
+			<class name="preserve.ClassThree" />
+	</classes>
+	</test>
+</suite>
