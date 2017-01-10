@@ -17,7 +17,7 @@
                 <configuration>
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>ParallelSuiteExecution.xml</suiteXmlFile>
+                        <suiteXmlFile>TestSuiteWithTimeOutAtSuiteLevel.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
