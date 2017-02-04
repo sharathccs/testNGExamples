@@ -17,7 +17,7 @@
                 <configuration>
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>Listener.xml</suiteXmlFile>
+                        <suiteXmlFile>FactoryAnnotationExample.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
