@@ -17,7 +17,7 @@
                 <configuration>
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>PerserveOrderSuiteExample.xml</suiteXmlFile>
+                        <suiteXmlFile>Listener.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
